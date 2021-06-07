@@ -2,4 +2,10 @@
     <string name="app_name">Tweather</string>
     <string name="current_temperature">Current temperature</string>
     <string name="temperature">%1$f °C / %2$f °F</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind">%1$f MPH</string>
+    <string name="stddev">StdDev</string>
+    <string name="stddevValue">%1$f °C</string>
+    <string name="errorCurrent">Unable to retrieve Current Weather Information</string>
+    <string name="errorFuture">Unable to retrieve a Future Weather Report</string>
 </resources>
